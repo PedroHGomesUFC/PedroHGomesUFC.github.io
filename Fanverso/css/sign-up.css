@@ -42,7 +42,6 @@ main {
     display: flex;
     justify-content: center;
     margin: 100px;
-    /* background-color: brown; */
 }
 
 .form-login-title {
@@ -50,7 +49,6 @@ main {
 }
 
 .form-login {
-    /* background-color: bisque; */
     height: 300px;
     margin-left: auto;
     margin-right: auto;
@@ -88,7 +86,6 @@ main {
     box-shadow: 5px 10px 15px #888888;
 }
 
-/* fazer media querry para alterar espaço pra digitar */
 #name,
 #senha,
 #email,
